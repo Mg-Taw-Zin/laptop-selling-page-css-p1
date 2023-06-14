@@ -17,6 +17,7 @@
   position: fixed;
   top: 0px;
   border-bottom: 3px solid var(--primary-color);
+  z-index: 1000;
 }
 
 .nav-bar-items {
