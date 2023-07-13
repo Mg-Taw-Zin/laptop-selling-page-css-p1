@@ -254,6 +254,7 @@
 .contact-me div a {
   font-size: 1.2rem;
   margin: 10px auto;
+  overflow: hidden !important;
   text-decoration: none;
 }
 
@@ -332,6 +333,12 @@
     width: 100%;
     column-count: 2;
     margin: 0 auto;
+  }
+  .contact-me div h1,
+  .contact-me div a {
+    font-size: 1.1rem;
+    margin: 10px auto;
+    text-decoration: none;
   }
 }
 
